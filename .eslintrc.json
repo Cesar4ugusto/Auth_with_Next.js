@@ -28,6 +28,7 @@
         "space-before-function-paren": "off",
         "react/prop-types": "off",
         "no-use-before-define": "off",
-        "dot-notation": "off"
+        "dot-notation": "off",
+        "no-lone-blocks": "off"
     }
 }
