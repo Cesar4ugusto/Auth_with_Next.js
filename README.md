@@ -68,8 +68,7 @@ $ yarn dev
 -   React
 -   Typescript
 -   Next.js
-
-</br>
+    </br>
 
 ## 🔐 License
 
