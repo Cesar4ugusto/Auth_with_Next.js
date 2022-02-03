@@ -100,5 +100,4 @@ $ yarn dev
 
 </br>
 
-<img alt="facebook" height="50" width="50" background-color="white" width="40" src="src/assets/facebook.png"><a style="color: inherit; text-decoration: none;" href="https://www.facebook.com/profile.php?id=100036276844486"><h3 style="font-size: 16px">Facebook 👈</h3></a><img alt="instagram" height="50" width="50" background-color="white" width="40" src="src/assets/instagram.png"><a style="color: inherit; text-decoration: none;" href="https://www.instagram.com/ces4r4ugusto_ofc/?hl=pt-br"><h3 style="font-size: 16px">Instagram 👈</h3></a><img alt="linkedin" height="50" width="50" background-color="white" width="40" src="src/assets/linkedin.png">
-<a style="color: inherit; text-decoration: none;" href="https://www.linkedin.com/in/c%C3%A9sar-augusto-aa8143160/"><h3 style="font-size: 16px">Linkein 👈</h3></a>
+<img alt="facebook" height="50" width="50" background-color="white" width="40" src="src/assets/facebook.png"><img alt="instagram" height="50" width="50" background-color="white" width="40" src="src/assets/instagram.png"><img alt="linkedin" height="50" width="50" background-color="white" width="40" src="src/assets/linkedin.png">
