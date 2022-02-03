@@ -36,6 +36,7 @@
 ## 🚧 Prerequisites
 
 To run this project, you need to have [nodejs](https://nodejs.org/en/ "Nodejs: https://nodejs.org/en/"), [npm](https://www.npmjs.com/ "NPM: https://www.npmjs.com/") and [yarn](https://code.visualstudio.com/ "Yarn: https://code.visualstudio.com/") installed globally.
+
 It's also nice to have a Code editor like [VSCode](https://code.visualstudio.com/ "VSCode: https://code.visualstudio.com/")
 
 ```bash
