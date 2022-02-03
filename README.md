@@ -85,7 +85,7 @@ $ yarn dev
 </BR>
 
 <div style="display: inline-block;">
-    <img style="border-radius: 50%; max-width: 200px; margin-right: 16px;" src="https://avatars.githubusercontent.com/u/67242974?v=4" />
+    <img width="200px" src="https://avatars.githubusercontent.com/u/67242974?v=4" />
     <div style="display: flex; flex-direction: column;">
         <h3 style="font-size: 30px">Hey guys, my name is César Augusto.</h3>
         <h5 style="font-size: 20px">Full Stack Javascript Web Developer</h5>
