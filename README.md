@@ -76,8 +76,6 @@ $ yarn dev
 
 [MIT](./LICENSE)
 
-</br>
-
 ## 🙋‍♂️ Author
 
 </BR>
