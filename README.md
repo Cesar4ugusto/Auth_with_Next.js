@@ -100,4 +100,4 @@ $ yarn dev
 
 </br>
 
-<img alt="facebook" height="50" width="50" background-color="white" width="40" src="src/assets/facebook.png"> <a position="relative" top="-10">Facebook</a> <img alt="instagram" height="50" width="50" background-color="white" width="40" src="src/assets/instagram.png"> <img alt="linkedin" height="50" width="50" background-color="white" width="40" src="src/assets/linkedin.png">
+<a href="https://www.facebook.com/profile.php?id=100036276844486"><img alt="facebook" height="50" width="50" background-color="white" width="40" src="src/assets/facebook.png"></a> <a href="https://www.facebook.com/profile.php?id=100036276844486"><img alt="instagram" height="50" width="50" background-color="white" width="40" src="src/assets/instagram.png"></a> <a href="https://www.facebook.com/profile.php?id=100036276844486"><img alt="linkedin" height="50" width="50" background-color="white" width="40" src="src/assets/linkedin.png"></a>
