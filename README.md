@@ -100,4 +100,4 @@ $ yarn dev
 
 </br>
 
-<img alt="facebook" height="50" width="50" styles="margin-right: 20px" background-color="white" width="40" src="src/assets/facebook.png"><img alt="instagram" height="50" width="50" background-color="white" width="40" src="src/assets/instagram.png"><img alt="linkedin" height="50" width="50" background-color="white" width="40" src="src/assets/linkedin.png">
+<img alt="facebook" height="50" width="50" background-color="white" width="40" src="src/assets/facebook.png"> <img alt="instagram" height="50" width="50" background-color="white" width="40" src="src/assets/instagram.png"> <img alt="linkedin" height="50" width="50" background-color="white" width="40" src="src/assets/linkedin.png">
