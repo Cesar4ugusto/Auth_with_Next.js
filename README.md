@@ -28,13 +28,10 @@
 
 </br>
 
-<input type="checkbox" disabled checked> Login,
-
-<input type="checkbox" disabled checked> Permission system,
-
-<input type="checkbox" disabled checked> Job permit system,
-
-<input type="checkbox" disabled checked> Component can.
+-   [x] Login,
+-   [x] Permission system,
+-   [x] Job permit system,
+-   [x] Component can.
 
 ## 🚧 Prerequisites
 
