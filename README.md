@@ -1,6 +1,5 @@
 # Auth with Next.js
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&linkhttps://www.linkedin.com/in/c%C3%A9sar-augusto-aa8143160//)](https://www.linkedin.com/in/c%C3%A9sar-augusto-aa8143160//)
 ![GitHub](https://img.shields.io/github/license/Cesar4ugusto/Auth_with_Next.js?style=flat-square)
 ![GitHub issues](https://img.shields.io/github/issues/Cesar4ugusto/Auth_with_Next.js?style=flat-square)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/Cesar4ugusto/Auth_with_Next.js?style=flat-square)
