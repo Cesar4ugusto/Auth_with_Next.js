@@ -94,6 +94,4 @@ $ yarn dev
 
 <h3 style="font-size: 16px">Did you like what you saw? Follow me on my social networks!</h3>
 
-</br>
-
 <a href="https://www.facebook.com/profile.php?id=100036276844486"><img alt="facebook" height="50" width="50" background-color="white" width="40" src="src/assets/facebook.png"></a> <a href="https://www.instagram.com/ces4r4ugusto_ofc/?hl=pt-br"><img alt="instagram" height="50" width="50" background-color="white" width="40" src="src/assets/instagram.png"></a> <a href="https://www.linkedin.com/in/césar-augusto-aa8143160/"><img alt="linkedin" height="50" width="50" background-color="white" width="40" src="src/assets/linkedin.png"></a>
