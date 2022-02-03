@@ -14,7 +14,7 @@
 
 </br>
 
-> Authentication, Permissions and Payload Rules with Nextjs using ReactJ with Typescript
+> Authentication, Permissions and Payload Rules with Nextjs using ReactJS with Typescript
 
 </br>
 
